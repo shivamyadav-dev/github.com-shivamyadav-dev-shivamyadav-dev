@@ -1,88 +1,83 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Shivam+Kumar+Yadav;Aspiring+Data+Scientist;Generative+%26+Agentic+AI+Specialist;Always+Learning+and+Building" alt="Typing SVG" /></a>
-</div>
+# Hi, I'm Shivam Kumar Yadav 🚀
 
-<br>
-
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      
-### About Me
-
-I am a Computer Science graduate passionate about transforming complex datasets into actionable insights and building intelligent AI-driven solutions. I specialize in **Data Science, Generative AI, and Agentic AI systems**, with a strong focus on practical application and responsible AI development.
-
-- 🌱 &nbsp; Exploring cutting-edge applications with **LangChain, OpenAI, and Hugging Face**.
-- 🔭 &nbsp; Building projects in **Predictive Modeling, AI Automation, and Business Intelligence**.
-- 💬 &nbsp; Ask me about **Python, ML, NLP, or anything related to Generative AI!**
-- 📫 &nbsp; Let's connect and collaborate on innovative projects.
-      
-<br>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shivamyadav-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Visitor Counter">
-</p>
-
-    </td>
-    <td valign="top" width="50%">
-
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamyadav-dev&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamyadav-dev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-    </td>
-  </tr>
-</table>
+[![Connect on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivam-kumar-yadav-26a47b239/)
 
 ---
-
-### 🛠️ My Tech Stack & Tools
-
-<div align="center">
-  <strong>Languages & Databases:</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <br><br>
-  <strong>Data Science & Machine Learning:</strong><br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-  <br><br>
-  <strong>Generative AI & NLP:</strong><br>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/LangChain-0d1a26?style=for-the-badge&logo=LangChain&logoColor=white" alt="LangChain"/>
-   <br><br>
-  <strong>Data Analytics & BI:</strong><br>
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-</div>
-
----
-
-### 📈 My GitHub Activity
-
-<div align="center">
-  <a href="https://github.com/shivamyadav-dev">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamyadav-dev&theme=tokyonight" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shivamyadav-dev/shivamyadav-dev/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
-
----
-
-### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivam-kumar-yadav-26a47b239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:shivamyadav00209@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <b>👋 Welcome to my AI-powered world!</b><br>
+  <i>Data Science | Agentic AI | Generative AI</i>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 Computer Science Engineer  
+🔬 Specializing in **Data Science**, **Agentic AI**, and **Generative AI**  
+💡 I love transforming complex datasets into actionable insights and building intelligent solutions  
+🧠 Exploring cutting-edge tools like LangChain, OpenAI API, Hugging Face
+
+---
+
+## 🛠️ Key Skills & Tools
+
+<details>
+  <summary>✨ <b>Click to reveal my skills!</b></summary>
+  <br>
+  <p align="center">
+    <!-- Data Science & ML Buttons -->
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
+    <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
+    <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+    <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+    <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+    <!-- Generative & Agentic AI Buttons -->
+    <a href="https://python.langchain.com/"><img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"></a>
+    <a href="https://openai.com/api/"><img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"></a>
+    <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+    <a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-0B6EFD?style=for-the-badge&logo=nlp&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Prompt%20Engineering-0B6EFD?style=for-the-badge&logo=prompt&logoColor=white"></a>
+    <!-- Data Analytics & BI Buttons -->
+    <a href="https://www.sqltutorial.org/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+    <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
+    <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
   </p>
+</details>
+
+---
+
+## 🚀 Interests & Goals
+
+- 🤖 Contribute to innovative projects in Data Science, AI Engineering, and Business Intelligence
+- 🌱 Continuously enhance my expertise in Responsible AI and Intelligent Systems
+- 🤝 Love collaborating, brainstorming, and learning with fellow creators
+
+---
+
+## ⚡ Fun Facts
+
+<details>
+  <summary>🎉 <b>Open for some personality!</b></summary>
+  <ul>
+    <li>🏸 Badminton keeps me sharp and strategic</li>
+    <li>📚 I’m a tech & strategy bookworm</li>
+    <li>🌍 Traveling gives me fresh perspectives for creative problem-solving</li>
+  </ul>
+</details>
+
+---
+
+## 💬 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-kumar-yadav-26a47b239/">
+    <img src="https://img.shields.io/badge/-Say%20Hello%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivamyadav-dev&style=for-the-badge" alt="Profile Views">
+</p>
